@@ -16,6 +16,7 @@ A Simple api to get results from http://whoismyrepresentative.com/api
 * Install node (v12+)
 * Run `npm install` or `yarn`
 * Run `npm run start` or `yarn start`
+* Update: `yarn run server` to run the server, `yarn start` to run the frontend app
 
 ### Available endpoints: 
 
